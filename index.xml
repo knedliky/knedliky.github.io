@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>boii.io</title>
-    <link>boii.io/</link>
+    <link>https://boii.io/</link>
     <description>Recent content on boii.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 01:41:02 +1100</lastBuildDate><atom:link href="boii.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Nov 2021 01:41:02 +1100</lastBuildDate><atom:link href="https://boii.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Initial Commit</title>
-      <link>boii.io/posts/post/</link>
+      <link>https://boii.io/posts/post/</link>
       <pubDate>Wed, 17 Nov 2021 01:41:02 +1100</pubDate>
       
-      <guid>boii.io/posts/post/</guid>
+      <guid>https://boii.io/posts/post/</guid>
       <description>Initial commit</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>boii.io/me/</link>
+      <link>https://boii.io/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>boii.io/me/</guid>
+      <guid>https://boii.io/me/</guid>
       <description>I love to learn, and I reckon I’m getting pretty good at it!
 I’ve been studying off and mostly on over the past 8 years, where my interests initially lay in linguistics and international relations. After completing my second degree with a rather hectic undergrad thesis on people’s perception toward migration in the peak of the Syrian crisis, I found myself wondering what to do next. It wasn’t clear what kind of employment came next, where I liked the idea of being able to move around the globe, meeting new people, learning new languages and having amazing experiences - one of the things that drew me to an international study career to begin with.</description>
     </item>

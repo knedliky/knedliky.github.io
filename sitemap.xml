@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>boii.io/</loc>
+    <loc>https://boii.io/</loc>
     <lastmod>2021-11-17T01:41:02+11:00</lastmod>
   </url><url>
-    <loc>boii.io/posts/post/</loc>
+    <loc>https://boii.io/posts/post/</loc>
     <lastmod>2021-11-17T01:41:02+11:00</lastmod>
   </url><url>
-    <loc>boii.io/posts/</loc>
+    <loc>https://boii.io/posts/</loc>
     <lastmod>2021-11-17T01:41:02+11:00</lastmod>
   </url><url>
-    <loc>boii.io/me/</loc>
+    <loc>https://boii.io/me/</loc>
   </url><url>
-    <loc>boii.io/categories/</loc>
+    <loc>https://boii.io/categories/</loc>
   </url><url>
-    <loc>boii.io/tags/</loc>
+    <loc>https://boii.io/tags/</loc>
   </url>
 </urlset>
